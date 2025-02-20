@@ -6485,6 +6485,23 @@ function initIndex() {
   
   
   
+  index.add(
+    
+      
+      
+      
+      {
+        id: 0,
+        tag: "en",
+        href: "/en/about/",
+        title: "About",
+        description: "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        
+        
+        content: "\u0026nbsp; Bootstrap framework\nBuild fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. \u0026nbsp; Full text search\nSearch your site with FlexSearch, a full-text search library with zero dependencies. \u0026nbsp; Development tools\nUse Node Package Manager to automate the build process and to keep track of dependencies. Additional features include:\nSwitching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions .tickmark"
+      })
+      ;
+  
 
   search.addEventListener('input', showResults, true);
 }

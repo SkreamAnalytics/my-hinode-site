@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oamaru Steam and Rail on My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content in Oamaru Steam and Rail on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>http://localhost:1313/en/about/</link>

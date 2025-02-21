@@ -6554,7 +6554,7 @@ function initIndex() {
         id: 4,
         tag: "en",
         href: "/my-hinode-site/en/trains/",
-        title: "Our trains",
+        title: "Our Trains",
         description: "We proudly operate both a steam train as well as deisel locomotives.",
         
         

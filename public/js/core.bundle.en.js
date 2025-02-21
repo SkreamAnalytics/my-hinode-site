@@ -6494,11 +6494,86 @@ function initIndex() {
         id: 0,
         tag: "en",
         href: "/en/about/",
-        title: "About",
-        description: "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5.",
+        title: "About Us",
+        description: "Take a journey back in time and enjoy train travel the way it used to be with Oamaru Steam and Rail.",
         
         
-        content: "\u0026nbsp; Bootstrap framework\nBuild fast, responsive sites with Bootstrap 5. Easily customize your site with the source Sass files. \u0026nbsp; Full text search\nSearch your site with FlexSearch, a full-text search library with zero dependencies. \u0026nbsp; Development tools\nUse Node Package Manager to automate the build process and to keep track of dependencies. Additional features include:\nSwitching between light mode and dark mode Support for multiple languages Reusable Bootstrap components through configurable shortcodes and partials Versioned documentation, including sidebar navigation and version switcher Responsive image handling for multiple screen sizes and resolutions .tickmark"
+        content: "We are a group of passionate volunteers maintaing a both locomotives and a short railway line in the coastal town of Oamaru.\nOur train runs every Sunday, except Christmas Day, weather permitting and subject to volunteer staffing. We can also run charters most any time and can be tailored to suit your requirements. Contact us for availability and more information."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 1,
+        tag: "en",
+        href: "/en/contact/",
+        title: "Contact",
+        description: "Oamaru Steam and Rail Restoration Society Inc.\n2A Itchen Street\nOamaru 9400\nNew Zealand\nEmail\ngeneralmanager@oamaru-steam.org.nz\ntrafficmanager@oamaru-steam.org.nz\ninfo@oamaru-steam.org.nz\nOur train is available for Charters most any time and can be tailored to suit your requirements. Contact us for availability and more information.\nOur regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!\n",
+        
+        
+        content: "Oamaru Steam and Rail Restoration Society Inc.\n2A Itchen Street\nOamaru 9400\nNew Zealand\nEmail\ngeneralmanager@oamaru-steam.org.nz\ntrafficmanager@oamaru-steam.org.nz\ninfo@oamaru-steam.org.nz\nOur train is available for Charters most any time and can be tailored to suit your requirements. Contact us for availability and more information.\nOur regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 2,
+        tag: "en",
+        href: "/en/fares/",
+        title: "Fares",
+        description: "All our fares go directly to maintaining our locomotives and railway.",
+        
+        
+        content: "Return Adult $12.00 Child $5.00 Family $28.00\nChild (up to 16 years) (under 5 years is free)\nFamily (2 Adults \u0026amp; 2 Children)\nOne-way tickets are also available.\nCost saving tip: Membership of the society entitles you to take the train any Sunday during the year for\nfree with no further obligations. Talk to the Station Master for details!"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 3,
+        tag: "en",
+        href: "/en/news/202403/",
+        title: "March 2024",
+        description: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page.\n",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 4,
+        tag: "en",
+        href: "/en/trains/",
+        title: "Our trains",
+        description: "We proudly operate both a steam train as well as deisel locomotives.",
+        
+        
+        content: "B10\nB10 is a 0-4-0st steam locomotive built by Hudswell Clarke and Company in 1924 for Messrs Armstrong, Whitworth of Tauranga for the construction of the Waihi to Tauranga section of the North Island East Coast Main Trunk Railway.\nIn 1930, B10 was sold to Milburn Lime and Cement, just South of Dunedin. B10 worked there until 1967 when it was sold to Waitaki NZ\u0026rsquo;s Pukeuri Freezing Works for $1500.\nIn 1989 Oamaru Steam and Rail swapped ex-NZR Dsa\u0026rsquo;s 234 and 218 for B10.\nB10 was Oamaru Steam and Rail\u0026rsquo;s main motive power up until April 2007 when she was pulled from service for her 10 year overhaul. B10 has since returned to service in December 2018.\nB10 Current Status: Operational, awaiting boiler inspection"
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 5,
+        tag: "en",
+        href: "/en/timetable/",
+        title: "Timetable",
+        description: "We run every Sunday, except Christmas Day, weather permitting and subject to volunteer staffing.",
+        
+        
+        content: "The train departs from Harbourside Station at the corner of Humber and Itchen Streets in the historic Harbourside area of Oamaru, New Zealand.\nAfter leaving the Station, you travel through the Historic Precinct, past some of Oamaru\u0026rsquo;s oldest buildings and then through the old railway yard and past the site of Oamaru\u0026rsquo;s first Railway Station. The train then runs along the bottom of clay cliffs, beside Oamaru\u0026rsquo;s Victorian Harbour.\nAt the end of the line, our terminus is the Red Sheds. These sheds, built in the 1800\u0026rsquo;s, are now home to various crafts people.\nThe return trip is approximately half an hour, including 15 minutes to look around the Red Sheds. If we\u0026rsquo;re lucky, we may have a little blue penguin in our shed for passengers to see.\nIf 15 minutes isn\u0026rsquo;t long enough for you, you can visit Del Mar restaurant for a coffee or meal with magnificent views out over the Pacific Ocean. Across the road is the world famous Oamaru Blue Penguin Colony where NZ fur seals can often be seen up close lying on the rocks. After visiting these attractions, catch a later train back to Harbourside.\nDepart Harbourside: 11:00 « || » Depart Quarry Siding: 11:25\nDepart Harbourside: 11:45 « || » Depart Quarry Siding: 12:10\nDepart Harbourside: 13:00 « || » Depart Quarry Siding: 13:25"
       })
       ;
   

@@ -1,0 +1,61 @@
+[[main]]
+  name = "About"
+  weight = 10
+
+[[main]]
+  name = "About "
+  pageRef = "en/about/"
+  parent = "About"
+  weight = 1
+
+[[main]]
+  name = "Timetable"
+  pageRef = "en/timetable/"
+  parent = "About"
+  weight = 2
+
+[[main]]
+  name = "Fares"
+  pageRef = "en/fares/"
+  parent = "About"
+  weight = 3
+
+[[main]]
+  name = "Our trains"
+  pageRef = "en/trains/"
+  parent = "About"
+  weight = 4
+
+[[main]]
+  name = "Contact"
+  pageRef = "en/contact/"
+  weight = 20
+
+[[main]]
+  name = "News"
+  pageRef = "en/news/"
+  weight = 30
+
+# toml-docs-start sample-navigation
+[[sample]]
+  name = "Blog"
+  pageRef = "/blog/"
+  weight = 10
+
+[[sample]]
+  name = "Projects"
+  pageRef = "/projects/"
+  weight = 20
+
+[[sample]]
+  name = "Sample project"
+  pageRef = "/projects/sample-project/"
+  parent = "Projects"
+  weight = 1
+
+[[sample]]
+  name = "Another project"
+  pageRef = "/projects/another-project/"
+  parent = "Projects"
+  weight = 2
+# toml-docs-end sample-navigation

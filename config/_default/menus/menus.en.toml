@@ -3,8 +3,8 @@
   weight = 10
 
 [[main]]
-  name = "About "
-  pageRef = "en/about/"
+  name = "About Us"
+  pageRef = "/about/"
   parent = "About"
   weight = 1
 

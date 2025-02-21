@@ -1799,7 +1799,7 @@ textarea.form-control-lg {
     height: calc(1.5em + 1rem + calc(var(--bs-border-width) * 2)); }
 
 .form-select {
-  --bs-form-select-bg-img: url("/my-hinode-site/icons/form-select-indicator.svg");
+  --bs-form-select-bg-img: url("/icons/form-select-indicator.svg");
   display: block;
   width: 100%;
   padding: 0.375rem 2.25rem 0.375rem 0.75rem;
@@ -1847,7 +1847,7 @@ textarea.form-control-lg {
   border-radius: var(--bs-border-radius-lg); }
 
 [data-bs-theme="dark"] .form-select {
-  --bs-form-select-bg-img: url("/my-hinode-site/icons/form-select-indicator-dark.svg"); }
+  --bs-form-select-bg-img: url("/icons/form-select-indicator-dark.svg"); }
 
 .form-check {
   display: block;
@@ -1896,13 +1896,13 @@ textarea.form-control-lg {
     background-color: #d43900;
     border-color: #d43900; }
     .form-check-input:checked[type="checkbox"] {
-      --bs-form-check-bg-image: url("/my-hinode-site/icons/form-check-input-checked-bg-image.svg"); }
+      --bs-form-check-bg-image: url("/icons/form-check-input-checked-bg-image.svg"); }
     .form-check-input:checked[type="radio"] {
-      --bs-form-check-bg-image: url("/my-hinode-site/icons/form-check-radio-checked-bg-image.svg"); }
+      --bs-form-check-bg-image: url("/icons/form-check-radio-checked-bg-image.svg"); }
   .form-check-input[type="checkbox"]:indeterminate {
     background-color: #d43900;
     border-color: #d43900;
-    --bs-form-check-bg-image: url("/my-hinode-site/icons/form-check-input-indeterminate-bg-image.svg"); }
+    --bs-form-check-bg-image: url("/icons/form-check-input-indeterminate-bg-image.svg"); }
   .form-check-input:disabled {
     pointer-events: none;
     filter: none;
@@ -1914,7 +1914,7 @@ textarea.form-control-lg {
 .form-switch {
   padding-left: 2.5em; }
   .form-switch .form-check-input {
-    --bs-form-switch-bg: url("/my-hinode-site/icons/form-switch-bg-image.svg");
+    --bs-form-switch-bg: url("/icons/form-switch-bg-image.svg");
     width: 2em;
     margin-left: -2.5em;
     background-image: var(--bs-form-switch-bg);
@@ -1925,10 +1925,10 @@ textarea.form-control-lg {
       .form-switch .form-check-input {
         transition: none; } }
     .form-switch .form-check-input:focus {
-      --bs-form-switch-bg: url("/my-hinode-site/icons/form-switch-focus-bg-image.svg"); }
+      --bs-form-switch-bg: url("/icons/form-switch-focus-bg-image.svg"); }
     .form-switch .form-check-input:checked {
       background-position: right center;
-      --bs-form-switch-bg: url("/my-hinode-site/icons/form-switch-checked-bg-image.svg"); }
+      --bs-form-switch-bg: url("/icons/form-switch-checked-bg-image.svg"); }
   .form-switch.form-check-reverse {
     padding-right: 2.5em;
     padding-left: 0; }
@@ -1950,7 +1950,7 @@ textarea.form-control-lg {
     opacity: 0.65; }
 
 [data-bs-theme="dark"] .form-switch .form-check-input:not(:checked):not(:focus) {
-  --bs-form-switch-bg: url("/my-hinode-site/icons/form-switch-bg-image-dark.svg"); }
+  --bs-form-switch-bg: url("/icons/form-switch-bg-image-dark.svg"); }
 
 .form-range {
   width: 100%;
@@ -2199,7 +2199,7 @@ textarea.form-control-lg {
 .was-validated .form-control:valid, .form-control.is-valid {
   border-color: var(--bs-form-valid-border-color);
   padding-right: calc(1.5em + 0.75rem);
-  background-image: url("/my-hinode-site/icons/form-feedback-icon-valid.svg");
+  background-image: url("/icons/form-feedback-icon-valid.svg");
   background-repeat: no-repeat;
   background-position: right calc(0.375em + 0.1875rem) center;
   background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem); }
@@ -2214,7 +2214,7 @@ textarea.form-control-lg {
 .was-validated .form-select:valid, .form-select.is-valid {
   border-color: var(--bs-form-valid-border-color); }
   .was-validated .form-select:valid:not([multiple]):not([size]), .was-validated .form-select:valid:not([multiple])[size="1"], .form-select.is-valid:not([multiple]):not([size]), .form-select.is-valid:not([multiple])[size="1"] {
-    --bs-form-select-bg-icon: url("/my-hinode-site/icons/form-feedback-icon-valid.svg");
+    --bs-form-select-bg-icon: url("/icons/form-feedback-icon-valid.svg");
     padding-right: 4.125rem;
     background-position: right 0.75rem center, center right 2.25rem;
     background-size: 16px 12px, calc(0.75em + 0.375rem) calc(0.75em + 0.375rem); }
@@ -2271,7 +2271,7 @@ textarea.form-control-lg {
 .was-validated .form-control:invalid, .form-control.is-invalid {
   border-color: var(--bs-form-invalid-border-color);
   padding-right: calc(1.5em + 0.75rem);
-  background-image: url("/my-hinode-site/icons/form-feedback-icon-invalid.svg");
+  background-image: url("/icons/form-feedback-icon-invalid.svg");
   background-repeat: no-repeat;
   background-position: right calc(0.375em + 0.1875rem) center;
   background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem); }
@@ -2286,7 +2286,7 @@ textarea.form-control-lg {
 .was-validated .form-select:invalid, .form-select.is-invalid {
   border-color: var(--bs-form-invalid-border-color); }
   .was-validated .form-select:invalid:not([multiple]):not([size]), .was-validated .form-select:invalid:not([multiple])[size="1"], .form-select.is-invalid:not([multiple]):not([size]), .form-select.is-invalid:not([multiple])[size="1"] {
-    --bs-form-select-bg-icon: url("/my-hinode-site/icons/form-feedback-icon-invalid.svg");
+    --bs-form-select-bg-icon: url("/icons/form-feedback-icon-invalid.svg");
     padding-right: 4.125rem;
     background-position: right 0.75rem center, center right 2.25rem;
     background-size: 16px 12px, calc(0.75em + 0.375rem) calc(0.75em + 0.375rem); }
@@ -3178,7 +3178,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-padding-y: 0.25rem;
   --bs-navbar-toggler-padding-x: 0.75rem;
   --bs-navbar-toggler-font-size: 1.25rem;
-  --bs-navbar-toggler-icon-bg: url("/my-hinode-site/icons/navbar-light-toggler-icon-bg.svg");
+  --bs-navbar-toggler-icon-bg: url("/icons/navbar-light-toggler-icon-bg.svg");
   --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.15);
   --bs-navbar-toggler-border-radius: var(--bs-border-radius);
   --bs-navbar-toggler-focus-width: 0;
@@ -3506,10 +3506,10 @@ textarea.form-control-lg {
   --bs-navbar-brand-color: #fff;
   --bs-navbar-brand-hover-color: #fff;
   --bs-navbar-toggler-border-color: rgba(255, 255, 255, 0.1);
-  --bs-navbar-toggler-icon-bg: url("/my-hinode-site/icons/navbar-dark-toggler-icon-bg.svg"); }
+  --bs-navbar-toggler-icon-bg: url("/icons/navbar-dark-toggler-icon-bg.svg"); }
 
 [data-bs-theme="dark"] .navbar-toggler-icon {
-  --bs-navbar-toggler-icon-bg: url("/my-hinode-site/icons/navbar-dark-toggler-icon-bg.svg"); }
+  --bs-navbar-toggler-icon-bg: url("/icons/navbar-dark-toggler-icon-bg.svg"); }
 
 .card {
   --bs-card-spacer-y: 1rem;
@@ -3678,11 +3678,11 @@ textarea.form-control-lg {
   --bs-accordion-btn-padding-y: 1rem;
   --bs-accordion-btn-color: var(--bs-body-color);
   --bs-accordion-btn-bg: var(--bs-accordion-bg);
-  --bs-accordion-btn-icon: url("/my-hinode-site/icons/accordion-button-icon.svg");
+  --bs-accordion-btn-icon: url("/icons/accordion-button-icon.svg");
   --bs-accordion-btn-icon-width: 1.25rem;
   --bs-accordion-btn-icon-transform: rotate(-180deg);
   --bs-accordion-btn-icon-transition: transform 0.2s ease-in-out;
-  --bs-accordion-btn-active-icon: url("/my-hinode-site/icons/accordion-button-active-icon.svg");
+  --bs-accordion-btn-active-icon: url("/icons/accordion-button-active-icon.svg");
   --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem rgba(212, 57, 0, 0.25);
   --bs-accordion-body-padding-x: 1.25rem;
   --bs-accordion-body-padding-y: 1rem;
@@ -3775,8 +3775,8 @@ textarea.form-control-lg {
     border-radius: 0; }
 
 [data-bs-theme="dark"] .accordion-button::after {
-  --bs-accordion-btn-icon: url("/my-hinode-site/icons/accordion-button-icon-dark.svg");
-  --bs-accordion-btn-active-icon: url("/my-hinode-site/icons/accordion-button-active-icon-dark.svg"); }
+  --bs-accordion-btn-icon: url("/icons/accordion-button-icon-dark.svg");
+  --bs-accordion-btn-active-icon: url("/icons/accordion-button-active-icon-dark.svg"); }
 
 .breadcrumb {
   --bs-breadcrumb-padding-x: 0;
@@ -4330,7 +4330,7 @@ textarea.form-control-lg {
 
 .btn-close {
   --bs-btn-close-color: #000;
-  --bs-btn-close-bg: url("/my-hinode-site/icons/btn-close-bg.svg");
+  --bs-btn-close-bg: url("/icons/btn-close-bg.svg");
   --bs-btn-close-opacity: 0.5;
   --bs-btn-close-hover-opacity: 0.75;
   --bs-btn-close-focus-shadow: 0 0 0 0.25rem rgba(212, 57, 0, 0.25);
@@ -4992,10 +4992,10 @@ textarea.form-control-lg {
   background-size: 100% 100%; }
 
 .carousel-control-prev-icon {
-  background-image: url("/my-hinode-site/icons/carousel-control-prev-icon-bg.svg") /*rtl:url("/my-hinode-site/icons/carousel-control-next-icon-bg.svg")*/; }
+  background-image: url("/icons/carousel-control-prev-icon-bg.svg") /*rtl:url("/icons/carousel-control-next-icon-bg.svg")*/; }
 
 .carousel-control-next-icon {
-  background-image: url("/my-hinode-site/icons/carousel-control-next-icon-bg.svg") /*rtl:url("/my-hinode-site/icons/carousel-control-prev-icon-bg.svg")*/; }
+  background-image: url("/icons/carousel-control-next-icon-bg.svg") /*rtl:url("/icons/carousel-control-prev-icon-bg.svg")*/; }
 
 .carousel-indicators {
   position: absolute;
@@ -10765,7 +10765,7 @@ https://prismjs.com/download.html#themes=prism&plugins=command-line */
   .btn-toggle-group::before {
     width: 1.25em;
     line-height: 0;
-    content: url("/my-hinode-site/icons/btn-toggle.svg");
+    content: url("/icons/btn-toggle.svg");
     transition: transform 0.35s ease;
     transform-origin: 0.5em 50%; }
 
@@ -10795,7 +10795,7 @@ https://prismjs.com/download.html#themes=prism&plugins=command-line */
   [data-bs-theme="dark"] .btn-toggle-group:hover, [data-bs-theme="dark"] .btn-toggle-group:focus {
     background-color: transparent; }
   [data-bs-theme="dark"] .btn-toggle-group::before {
-    content: url("/my-hinode-site/icons/btn-toggle-dark.svg"); }
+    content: url("/icons/btn-toggle-dark.svg"); }
 
 [data-bs-theme="dark"] .btn-toggle-group[aria-expanded="true"] {
   color: var(--bs-secondary-color); }

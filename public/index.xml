@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oamaru Steam and Rail on My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/my-hinode-site/</link>
     <description>Recent content in Oamaru Steam and Rail on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-hinode-site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>http://localhost:1313/my-hinode-site/en/about/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
+      <guid>http://localhost:1313/my-hinode-site/en/about/</guid>
       <description>&lt;p&gt;We are a group of passionate volunteers maintaing a both locomotives and a short railway line in the coastal town of Oamaru.&lt;/p&gt;&#xA;&lt;p&gt;Our train runs every Sunday, except Christmas Day, weather permitting and subject to volunteer staffing. We can also run charters most any time and can be tailored to suit your requirements.  Contact us for availability and more information.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Fares</title>
-      <link>http://localhost:1313/en/fares/</link>
+      <link>http://localhost:1313/my-hinode-site/en/fares/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/fares/</guid>
+      <guid>http://localhost:1313/my-hinode-site/en/fares/</guid>
       <description>&lt;pre&gt;&lt;code&gt;  &#x9;Return&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Adult &#x9;  &#x9;$12.00&#xA;Child &#x9;  &#x9;$5.00&#xA;Family &#x9;  &#x9;$28.00&lt;/p&gt;&#xA;&lt;p&gt;Child (up to 16 years)  (under 5 years is free)&lt;/p&gt;&#xA;&lt;p&gt;Family (2 Adults &amp;amp; 2 Children)&lt;/p&gt;&#xA;&lt;p&gt;One-way tickets are also available.&lt;/p&gt;&#xA;&lt;p&gt;Cost saving tip: Membership of the society entitles you to take the train any Sunday during the year for&lt;/p&gt;&#xA;&lt;p&gt;free with no further obligations. Talk to the Station Master for details!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our trains</title>
-      <link>http://localhost:1313/en/trains/</link>
+      <link>http://localhost:1313/my-hinode-site/en/trains/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/trains/</guid>
-      <description>&lt;p&gt;B10&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &lt;div class=&#34;text-center&#34;&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;img-fluid img-fluid w-50&#34;&#xA;        src=&#34;http://localhost:1313/img/trains/b10-2800x2100.png&#34;&#xA;        &#xA;        &#xA;        srcset=&#34;http://localhost:1313/img/trains/b10-576x432.webp 576w, http://localhost:1313/img/trains/b10-768x576.webp 768w, http://localhost:1313/img/trains/b10-992x744.webp 992w, http://localhost:1313/img/trains/b10-1200x900.webp 1200w, http://localhost:1313/img/trains/b10-1400x1050.webp 1400w, http://localhost:1313/img/trains/b10-2800x2100.webp 2800w&#34; sizes=&#34;100vw&#34;&#xA;        height=&#34;2100&#34;&#xA;        width=&#34;2800&#34;&#xA;        alt=&#34;image&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&lt;p&gt;B10 is a 0-4-0st steam locomotive built by Hudswell Clarke and Company in 1924 for Messrs Armstrong, Whitworth of Tauranga for the construction of the Waihi to Tauranga section of the North Island East Coast Main Trunk Railway.&lt;/p&gt;&#xA;&lt;p&gt;In 1930, B10 was sold to Milburn Lime and Cement, just South of Dunedin. B10 worked there until 1967 when it was sold to Waitaki NZ&amp;rsquo;s Pukeuri Freezing Works for $1500.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/my-hinode-site/en/trains/</guid>
+      <description>&lt;p&gt;B10&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &lt;div class=&#34;text-center&#34;&gt;&#xA;&#xA;&#xA;&lt;img class=&#34;img-fluid img-fluid w-50&#34;&#xA;        src=&#34;http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-2800x2100.png&#34;&#xA;        &#xA;        &#xA;        srcset=&#34;http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-576x432.webp 576w, http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-768x576.webp 768w, http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-992x744.webp 992w, http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-1200x900.webp 1200w, http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-1400x1050.webp 1400w, http://localhost:1313/my-hinode-site/my-hinode-site/img/trains/b10-2800x2100.webp 2800w&#34; sizes=&#34;100vw&#34;&#xA;        height=&#34;2100&#34;&#xA;        width=&#34;2800&#34;&#xA;        alt=&#34;image&#34;&gt;&#xA;    &lt;/div&gt;&#xA;&lt;p&gt;B10 is a 0-4-0st steam locomotive built by Hudswell Clarke and Company in 1924 for Messrs Armstrong, Whitworth of Tauranga for the construction of the Waihi to Tauranga section of the North Island East Coast Main Trunk Railway.&lt;/p&gt;&#xA;&lt;p&gt;In 1930, B10 was sold to Milburn Lime and Cement, just South of Dunedin. B10 worked there until 1967 when it was sold to Waitaki NZ&amp;rsquo;s Pukeuri Freezing Works for $1500.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timetable</title>
-      <link>http://localhost:1313/en/timetable/</link>
+      <link>http://localhost:1313/my-hinode-site/en/timetable/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/timetable/</guid>
+      <guid>http://localhost:1313/my-hinode-site/en/timetable/</guid>
       <description>&lt;p&gt;The train departs from Harbourside Station at the corner of Humber and Itchen Streets in the historic Harbourside area of Oamaru, New Zealand.&lt;/p&gt;&#xA;&lt;p&gt;After leaving the Station, you travel through the Historic Precinct, past some of Oamaru&amp;rsquo;s oldest buildings and then through the old railway yard and past the site of Oamaru&amp;rsquo;s first Railway Station. The train then runs along the bottom of clay cliffs, beside Oamaru&amp;rsquo;s Victorian Harbour.&lt;/p&gt;&#xA;&lt;p&gt;At the end of the line, our terminus is the Red Sheds. These sheds, built in the 1800&amp;rsquo;s, are now home to various crafts people.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/contact/</link>
+      <link>http://localhost:1313/my-hinode-site/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/contact/</guid>
+      <guid>http://localhost:1313/my-hinode-site/en/contact/</guid>
       <description>&lt;p&gt;Oamaru Steam and Rail Restoration Society Inc.&lt;br&gt;&#xA;2A Itchen Street&lt;br&gt;&#xA;Oamaru 9400&lt;br&gt;&#xA;New Zealand&lt;/p&gt;&#xA;&lt;p&gt;Email&lt;br&gt;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;a href=&#34;mailto:generalmanager@oamaru-steam.org.nz&#34;&gt;generalmanager@oamaru-steam.org.nz&lt;/a&gt;&lt;br&gt;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;a href=&#34;mailto:trafficmanager@oamaru-steam.org.nz&#34;&gt;trafficmanager@oamaru-steam.org.nz&lt;/a&gt;&lt;br&gt;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&lt;a href=&#34;mailto:info@oamaru-steam.org.nz&#34;&gt;info@oamaru-steam.org.nz&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Our train is available for Charters most any time and can be tailored to suit your requirements.  Contact us for availability and more information.&lt;/p&gt;&#xA;&lt;p&gt;Our regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!&lt;/p&gt;</description>
     </item>
     <item>
       <title>March 2024</title>
-      <link>http://localhost:1313/en/news/202403/</link>
+      <link>http://localhost:1313/my-hinode-site/en/news/202403/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/news/202403/</guid>
+      <guid>http://localhost:1313/my-hinode-site/en/news/202403/</guid>
       <description>&lt;p&gt;On the Railway&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;387 passengers were carried on four busy running days in February.&lt;/li&gt;&#xA;&lt;li&gt;The guards van received replacement steel on its ends, as areas of&#xA;corrosion continue to be addressed before repainting.&lt;/li&gt;&#xA;&lt;li&gt;Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;New van ends New trolley, holding cement Raised concrete floor sections&#xA;Safety Innovations&#xA;The open wagon is being fitted with water tanks and a pump that can be used to&#xA;spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will&#xA;be fitted, carrying around 800 litres of water in total.&#xA;To minimise the possibility of bags or little legs falling beneath carriage gates,&#xA;the tops of the wooden end platforms were extended out 5-10cm using a block of&#xA;wood (its edge painted white) and topped with non-slip metal. This is also&#xA;visible in the picture in the top-right corner of this page.&lt;/p&gt;</description>
     </item>
   </channel>

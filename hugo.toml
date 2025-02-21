@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://skreamanalytics.github.io/my-hinode-site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 [[module.imports]]

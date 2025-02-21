@@ -6493,7 +6493,7 @@ function initIndex() {
       {
         id: 0,
         tag: "en",
-        href: "/en/about/",
+        href: "/my-hinode-site/en/about/",
         title: "About Us",
         description: "Take a journey back in time and enjoy train travel the way it used to be with Oamaru Steam and Rail.",
         
@@ -6508,7 +6508,7 @@ function initIndex() {
       {
         id: 1,
         tag: "en",
-        href: "/en/contact/",
+        href: "/my-hinode-site/en/contact/",
         title: "Contact",
         description: "Oamaru Steam and Rail Restoration Society Inc.\n2A Itchen Street\nOamaru 9400\nNew Zealand\nEmail\ngeneralmanager@oamaru-steam.org.nz\ntrafficmanager@oamaru-steam.org.nz\ninfo@oamaru-steam.org.nz\nOur train is available for Charters most any time and can be tailored to suit your requirements. Contact us for availability and more information.\nOur regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!\n",
         
@@ -6523,7 +6523,7 @@ function initIndex() {
       {
         id: 2,
         tag: "en",
-        href: "/en/fares/",
+        href: "/my-hinode-site/en/fares/",
         title: "Fares",
         description: "All our fares go directly to maintaining our locomotives and railway.",
         
@@ -6538,7 +6538,7 @@ function initIndex() {
       {
         id: 3,
         tag: "en",
-        href: "/en/news/202403/",
+        href: "/my-hinode-site/en/news/202403/",
         title: "March 2024",
         description: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page.\n",
         
@@ -6553,7 +6553,7 @@ function initIndex() {
       {
         id: 4,
         tag: "en",
-        href: "/en/trains/",
+        href: "/my-hinode-site/en/trains/",
         title: "Our trains",
         description: "We proudly operate both a steam train as well as deisel locomotives.",
         
@@ -6568,7 +6568,7 @@ function initIndex() {
       {
         id: 5,
         tag: "en",
-        href: "/en/timetable/",
+        href: "/my-hinode-site/en/timetable/",
         title: "Timetable",
         description: "We run every Sunday, except Christmas Day, weather permitting and subject to volunteer staffing.",
         
